@@ -1,0 +1,258 @@
+*{
+    padding: auto;
+    margin: 0px;
+}
+
+html,body {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: white;
+}
+
+.image_1 {
+    background: url(contact_1.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 787px;
+    height: 308px;
+    position: absolute;
+    left: 700px;
+    right: 0px;
+    top: 144px;
+    border-radius: 84px;
+}
+
+.text_1 {
+    position: absolute;
+    color: black;
+    width: 104px;
+    height: 80px;
+    left: 30px;
+    top: 45px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    font-style: bold;
+}
+
+.text_2 {
+    position: absolute;
+    color: #84858B;
+    width: 215px;
+    height: 24px;
+    left: 800px;
+    top: 504px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+    text-decoration: underline;
+}
+
+.text_3 {
+    position: absolute;
+    color: black;
+    width: 500px;
+    height: 80px;
+    left: 800px;
+    top: 560px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    font-style: bold;
+}
+
+.text_4 {
+    position: absolute;
+    color: black;
+    width: 500px;
+    height: 80px;
+    left: 800px;
+    top: 600px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    font-style: bold;
+}
+
+.text_5 {
+    position: absolute;
+    color: black;
+    width: 500px;
+    height: 80px;
+    left: 800px;
+    top: 640px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    font-style: bold;
+}
+
+.text_6 {
+    position: absolute;
+    color: rgb(174, 150, 150);
+    width: 190px;
+    height: 24px;
+    left: 98px;
+    top: 178px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+    text-decoration: underline;
+}
+
+
+.lable_1 {
+    position: absolute;
+    color: rgb(174, 150, 150);
+    width: 400px;
+    height: 40px;
+    left: 95px;
+    top: 238px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.lable_2 {
+    position: absolute;
+    color: rgb(174, 150, 150);
+    width: 400px;
+    height: 40px;
+    left: 95px;
+    top: 300px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.lable_3 {
+    position: absolute;
+    color: rgb(174, 150, 150);
+    width: 400px;
+    height: 40px;
+    left: 95px;
+    top: 362px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.lable_4 {
+    position: absolute;
+    color: rgb(174, 150, 150);
+    width: 400px;
+    height: 40px;
+    left: 95px;
+    top: 424px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.home {
+    position: absolute;
+    color: #84858B;
+    width: 90px;
+    height: 39px;
+    left: 720px;
+    top: 61px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.portfolio {
+    position: absolute;
+    color: #84858B;
+    width: 83px;
+    height: 24px;
+    left: 810px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    text-decoration:none;
+}
+
+.book {
+    position: absolute;
+    color: #84858B;
+    width: 49px;
+    height: 24px;
+    left: 940px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.services{
+    position: absolute;
+    color: #84858B;
+    width: 85px;
+    height: 24px;
+    left: 1035px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.about {
+    position: absolute;
+    color: #84858B;
+    width: 60px;
+    height: 24px;
+    left: 1150px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.contact {
+    position: absolute;
+    color: #84858B;
+    width: 78px;
+    height: 24px;
+    left: 1245px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.login {
+    position: absolute;
+    color: #84858B;
+    width: 139px;
+    height: 24px;
+    left: 1350px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+
+
+
+
+
+
+
+

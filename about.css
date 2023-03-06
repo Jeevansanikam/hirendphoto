@@ -1,0 +1,160 @@
+*{
+    padding: auto;
+    margin: 0px;
+}
+
+html,body {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: white;
+}
+
+.image_1 {
+    background: url(about.jpg);
+    background-position: absolute;
+    background-size: cover;
+    width: 562px;
+    height: 841px;
+    position: absolute;
+    left: 950px;
+   
+    top: 136px;
+    border-radius: 187px;
+}
+
+.text_1 {
+    position: absolute;
+    color: black;
+    width: 104px;
+    height: 80px;
+    left: 30px;
+    top: 45px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    font-style: bold;
+}
+
+.text_2 {
+    position: absolute;
+    color: rgb(143, 140, 140);
+    width: 153px;
+    height: 39px;
+    left: 104px;
+    top: 10px;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 369px;
+    font-style: bold;
+    text-decoration: underline;
+}
+
+.text_3 {
+    position: absolute;
+    color: rgb(7, 6, 6);
+    width: 619px;
+    height: 474px;
+    left: 100px;
+    top: 244px;
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    font-style: bold;
+}
+
+.home {
+    position: absolute;
+    color: #84858B;
+    width: 90px;
+    height: 39px;
+    left: 720px;
+    top: 61px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.portfolio {
+    position: absolute;
+    color: #84858B;
+    width: 83px;
+    height: 24px;
+    left: 810px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    text-decoration:none;
+}
+
+.book {
+    position: absolute;
+    color: #84858B;
+    width: 49px;
+    height: 24px;
+    left: 940px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.services{
+    position: absolute;
+    color: #84858B;
+    width: 85px;
+    height: 24px;
+    left: 1035px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.about {
+    position: absolute;
+    color: #84858B;
+    width: 60px;
+    height: 24px;
+    left: 1150px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.contact {
+    position: absolute;
+    color: #84858B;
+    width: 78px;
+    height: 24px;
+    left: 1245px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.login {
+    position: absolute;
+    color: #84858B;
+    width: 139px;
+    height: 24px;
+    left: 1350px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+
+

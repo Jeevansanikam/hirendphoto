@@ -1,0 +1,476 @@
+*{
+    padding: auto;
+    margin: 0px;
+}
+
+html,body {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: white;
+}
+
+
+
+.book_1 {
+    background: url(book_1.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 323px;
+    height: 306px;
+    position: absolute;
+    left: 150px;
+    right: 0px;
+    top: 126px;
+    border-radius: 150px;
+}
+
+.book_2 {
+    background: url(book_2.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 306px;
+    position: absolute;
+    left: 650px;
+    right: 0px;
+    top: 126px;
+    border-radius: 195.5px;
+}
+
+.book_3 {
+    background: url(book_3.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 344px;
+    height: 322px;
+    position: absolute;
+    left: 1100px;
+    right: 0px;
+    top: 118px;
+    border-radius: 159px;
+}
+
+.text_1 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 288.63px;
+    left: 150px;
+    top: 472px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_2 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 200.63px;
+    left: 150px;
+    top: 510px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_5 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 175.63px;
+    left: 150px;
+    top: 542px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.lable {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 160.63px;
+    left: 150px;
+    top: 577px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_3 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 145.63px;
+    left: 150px;
+    top: 610px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_4 {
+    position: absolute;
+    color: black;
+    width: 500px;
+    height: 130.63px;
+    left: 150px;
+    top: 692px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.Submit {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 110px;
+    left: 150px;
+    top: 720px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+    
+}
+
+
+
+
+
+
+
+
+.text_6 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 288.63px;
+    left: 625px;
+    top: 472px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_7 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 200.63px;
+    left: 625px;
+    top: 510px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_8 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 175.63px;
+    left: 625px;
+    top: 542px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.lable_1 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 160.63px;
+    left: 625px;
+    top: 577px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_9 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 145.63px;
+    left: 625px;
+    top: 610px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_10 {
+    position: absolute;
+    color: black;
+    width: 500px;
+    height: 130.63px;
+    left: 625px;
+    top: 692px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.Submit_1 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 110px;
+    left: 625px;
+    top: 720px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+.text_11 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 288.63px;
+    left: 1100px;
+    top: 472px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_12 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 200.63px;
+    left: 1100px;
+    top: 510px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_13 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 175.63px;
+    left: 1100px;
+    top: 542px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.lable_2 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 160.63px;
+    left: 1100px;
+    top: 577px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_14 {
+    position: absolute;
+    color: black;
+    width: 325.38px;
+    height: 145.63px;
+    left: 1100px;
+    top: 610px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.text_15 {
+    position: absolute;
+    color: black;
+    width: 500px;
+    height: 130.63px;
+    left: 1100px;
+    top: 692px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+}
+
+.Submit_2 {
+    position: absolute;
+    color: blue;
+    width: 325.38px;
+    height: 110px;
+    left: 1100px;
+    top: 720px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    font-style: bold;
+    line-height: 19px;
+    
+}
+
+
+.text_0 {
+    position: absolute;
+    color: black;
+    width: 104px;
+    height: 80px;
+    left: 30px;
+    top: 45px;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 50px;
+    font-style: bold;
+}
+
+.home {
+    position: absolute;
+    color: #84858B;
+    width: 90px;
+    height: 39px;
+    left: 720px;
+    top: 61px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration: none;
+}
+
+.portfolio {
+    position: absolute;
+    color: #84858B;
+    width: 83px;
+    height: 24px;
+    left: 810px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: right;
+    text-decoration:none;
+}
+
+.book {
+    position: absolute;
+    color: #84858B;
+    width: 49px;
+    height: 24px;
+    left: 940px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.services{
+    position: absolute;
+    color: #84858B;
+    width: 85px;
+    height: 24px;
+    left: 1035px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.about {
+    position: absolute;
+    color: #84858B;
+    width: 60px;
+    height: 24px;
+    left: 1150px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.contact {
+    position: absolute;
+    color: #84858B;
+    width: 78px;
+    height: 24px;
+    left: 1245px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+.login {
+    position: absolute;
+    color: #84858B;
+    width: 139px;
+    height: 24px;
+    left: 1350px;
+    top: 62px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-line:underline;
+}
+
+
+
+
+
